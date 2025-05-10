@@ -5,8 +5,8 @@ app = Flask(__name__)
 
 # Product List (Name, Price, GST)
 products = {
-    "Oswal Soap": {"price": 63.56, "gst": 18},
-    "Oswal Single": {"price": 7.288, "gst": 18},
+    "Oswal Soap": {"price": 67.8, "gst": 18},
+    "Oswal Single": {"price": 7.082, "gst": 18},
     "Powder 1kg": {"price": 44.915, "gst": 18},
     "Powder 3kg": {"price": 134.745, "gst": 18},
     "Powder 5kg": {"price": 288.135, "gst": 18},
